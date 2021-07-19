@@ -1,5 +1,2 @@
-## Welcome to "Hello World" with GitHub Actions
-
-This course will walk you through writing your first action and using it with a workflow file. 
-
-**Ready to get started? Navigate to the first issue.**
+# Hi! Welcome to my repo.
+![workflow](https://github.com/ElaMark/dotnet-ci/actions/workflows/action-a/badge.svg)
